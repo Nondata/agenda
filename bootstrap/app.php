@@ -1,5 +1,5 @@
 <?php
-
+//erik estuvo aqui
 /*
 |--------------------------------------------------------------------------
 | Create The Application
@@ -10,6 +10,8 @@
 | the IoC container for the system binding all of the various parts.
 |
 */
+
+//erik estuvo aqui
 
 $app = new Illuminate\Foundation\Application(
     $_ENV['APP_BASE_PATH'] ?? dirname(__DIR__)
