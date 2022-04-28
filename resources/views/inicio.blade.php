@@ -17,6 +17,7 @@
                             <img src="{{ asset('img/imagen1.jpg')}}" width="20%"alt="">
                             <p style="font-family: Arial">
                                 Esto es una prueba con laravel
+				Otra prueba con git
                             </p>
                         </div>
                     </div>
