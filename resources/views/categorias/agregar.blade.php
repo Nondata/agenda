@@ -22,7 +22,7 @@
                                 <label for="descripcion">Descripcion</label>
                                 <textarea name="descripcion" id="descripcion" cols="30" rows="10" class="form-control"></textarea>
                                 <br>
-                                <button class="btn btn-primary">Agregar</button>
+                                <button class="btn btn-primary">Agregar ejemplo</button>
                             </form>
                         </div>
                     </div>
