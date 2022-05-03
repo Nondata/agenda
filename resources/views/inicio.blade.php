@@ -17,7 +17,6 @@
                             <img src="{{ asset('img/imagen1.jpg')}}" width="20%"alt="">
                             <p style="font-family: Arial">
                                 Esto es una prueba con laravel
-				Otra prueba
                             </p>
                         </div>
                     </div>
@@ -26,5 +25,3 @@
         </div>
     </div>
 @endsection
-//hola mundo
-//este es el bueno

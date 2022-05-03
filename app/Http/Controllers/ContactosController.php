@@ -92,7 +92,7 @@ class ContactosController extends Controller
         $contacto ->paterno= $request->post('paterno');
         $contacto ->materno = $request->post('materno');
         $contacto ->telefono = $request->post('telefono');
-        $contacto->email = $request->post('email');
+        $contacto->email = $request->post('correo');
         $contacto->save();
 
         return redirect()->route('contactos.index')->with('success', 'Actualizado con exito');

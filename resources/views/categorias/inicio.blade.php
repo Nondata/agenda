@@ -34,8 +34,7 @@
                                 @foreach ($categorias as $item)
                                     <tr>
                                         <td>{{ $item->nombre}}</td>
-                                        <td>{{ $item->des
-cripcion}}</td>
+                                        <td>{{ $item->descripcion}}</td>
                                         <td><a href="{{ route('categorias.edit', $item->id_categoria)}}" class="btn btn-warning btn-sm">Editar</a></td>
                                         <td><a href="{{ route('categorias.show', $item->id_categoria)}}" class="btn btn-danger btn-sm">Eliminar</a></td>
                                     </tr>
